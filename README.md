@@ -4,16 +4,16 @@ The project also contains the LateX compilation file for the thesis.
 The file structure is as follows:
 
 # Documentation
-<|- documentation>
-     <|- figure>
-     <|- chapters>
-     <|- appendices>
-     <|- tables>
-     <|- bibliography.bib>
-     <|- main.tex>
+|- documentation <br/>
+     |- figure <br/>
+     |- chapters <br/>
+     |- appendices <br/>
+     |- tables <br/>
+     |- bibliography.bib <br/>
+     |- main.tex <br/>
 # Implementation
-<|- implemetation>
-     <|- pbg_main.py>
-     <|- pbg_model.py>
-     <|- pbg_plot.py>
-     <|- pbg_test.py>
+|- implemetation <br/>
+     |- pbg_main.py <br/>
+     |- pbg_model.py <br/>
+     |- pbg_plot.py <br/>
+     |- pbg_test.py <br/>
